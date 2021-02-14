@@ -1,0 +1,52 @@
+body{
+  text-align: center;
+  padding:0;
+  margin:0;
+  font-family: 'Bebas Neue', cursive;
+  background-color:rgb(252, 244, 252);
+}
+
+.maintitle{
+  font-size: 3em;
+  margin-bottom:1%;
+}
+.tomato{
+  color:tomato;
+}
+
+.result{
+  display: flex;
+}
+
+textarea{
+  height: 30vh;
+  width:30vh;
+}
+
+.smalltitle{
+  font-size: 1.5em;
+  margin-bottom:0.5%;
+}
+
+#inputResult{
+  border: 1px solid black;
+  height: 30vh;
+  width:30vh;
+  margin:auto;
+  margin-right: 0.1%;
+  text-align:left;
+}
+
+#targetResult{
+  border: 1px solid black;
+  width: 30vh;
+  height: 30vh;
+  margin:auto;
+  margin-left: 0.1%;
+  text-align:left;
+}
+
+.outputexplanation{
+  font-size:1.5em;
+  margin-top:1%;
+}
