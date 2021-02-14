@@ -1,5 +1,4 @@
 # Text Comparison Website
-___
 
 Click [here](https://unow0517.github.io/TextComparison/) to use
 
